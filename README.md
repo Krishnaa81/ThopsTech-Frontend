@@ -17,7 +17,7 @@ A responsive portfolio website showcasing:
 - Responsive Design
 
 🔗 Live Demo:
-[https://thops-tech-frontend.vercel.app/](https://krishnaa-html-project01inthopstech-nhvj2g2dc.vercel.app/)
+https://krishnaa-html-project01inthopstech-nhvj2g2dc.vercel.app/
 
 ---
 
